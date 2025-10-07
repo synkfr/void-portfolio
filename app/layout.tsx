@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     siteName: '3D Portfolio Template',
     images: [
       {
-        url: 'https://yourwebsite.com/preview.png',
+        url: 'https://www.dropbox.com/scl/fi/lmo5veobl7uoezn89q0a0/standard.gif?rlkey=n1hr72nqu6culb87bbh7zxyfs&st=qoa7wdub&dl=1',
         width: 1200,
         height: 630,
         alt: '3D Portfolio Template Preview',
