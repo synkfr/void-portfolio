@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   creator: 'AyoSynk',
   generator: 'Next.js + pnpm',
   openGraph: {
-    title: '3D Portfolio Template – Spline + Next.js',
+    title: 'Portfolio',
     description:
       'Showcase your work with a sleek, interactive 3D portfolio built using Spline and Next.js.',
     url: 'https://thevoid.pages.dev',
@@ -30,9 +30,9 @@ export const metadata: Metadata = {
     images: [
       {
         url: 'https://www.dropbox.com/scl/fi/lmo5veobl7uoezn89q0a0/standard.gif?rlkey=n1hr72nqu6culb87bbh7zxyfs&st=qoa7wdub&dl=1',
-        width: 1200,
-        height: 630,
-        alt: '3D Portfolio Template Preview',
+        width: 1920,
+        height: 1080,
+        alt: 'Portofolio',
       },
     ],
     locale: 'en_US',
