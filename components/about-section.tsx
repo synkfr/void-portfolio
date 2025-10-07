@@ -67,7 +67,7 @@ export function AboutSection() {
               className="space-y-6"
             >
               <p className="text-xl text-muted-foreground leading-relaxed">
-Hey, I’m a video editor and thumbnail editor who loves making content look clean and clickable. I focus on simple edits, sharp visuals, and making every frame count. Always up for improving and creating something that stands out.
+Hey, I’m Mayank a video editor and thumbnail editor who loves making content look clean and clickable. I focus on simple edits, sharp visuals, and making every frame count. Always up for improving and creating something that stands out.
               </p>
             </motion.div>
 
@@ -79,7 +79,7 @@ Hey, I’m a video editor and thumbnail editor who loves making content look cle
               className="grid grid-cols-3 gap-6 pt-8 pointer-events-auto"
             >
               {[
-                { number: "50+", label: "Projects" },
+                { number: "10+", label: "Projects" },
                 { number: "100%", label: "Satisfaction" },
                 { number: "2Y+", label: "Experience" }
               ].map((stat, index) => (
